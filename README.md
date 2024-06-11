@@ -4,7 +4,7 @@ Hi 👋 My name is Felix Rödén
 Student
 -------
 
-Information Systems – Software Engineering
+[Information Systems – Software Engineering](https://www.uu.se/utbildning/program/kandidatprogram-systemvetenskap-programvaruteknik) at Uppsala University
 
 * 🌍  I'm based in Visby
 * ✉️  You can contact me at [contact@felixroden.com](mailto:contact@felixroden.com)
